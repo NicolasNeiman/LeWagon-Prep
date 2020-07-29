@@ -199,6 +199,9 @@ If we want to reuse design class we use classes
 
 ## Bootstrap
 
+Bootstrap is a regular CSS file written by Twitter and made available to everyone.
+We will have to load this file and then we can use any classes this file contain instead of re-writting new classes.
+
 
 
 
