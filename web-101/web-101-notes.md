@@ -7,9 +7,9 @@
 
 They communicate based on a common protocol : *Hyper Text Transfer Protocol* (HTTP)
 
-Web != Internet
-Internet is the wire and machines connected
-Web is the what is transferred using the HTTP
+Web != Internet</br>
+Internet is the wire and machines connected</br>
+Web is the what is transferred using the HTTP</br>
 It is thus a subset of the Internet
 
 HTTP is used to transfer ressources (=files)
@@ -19,8 +19,7 @@ In cas of a simple static website the server will just fetch the HTML page and s
 In case of a more complex dynamic site the sever will build the HTML page to send using the backend of the site.
 Then the browser will process the HTML file to display the web page to the user.
 
-![Web Schema](images/web101-web-initial-diagram.jpg)
-
+<img src="images/web101-web-initial-diagram.png" alt="Web schema"/>
 
 
 
